@@ -135,4 +135,18 @@ If the RestaurantPizza is not created successfully, return the following JSON da
 `{
   "errors": ["validation errors"]
 }`
-All the best coder..
+
+## Project Setup
+
+To set up and run this Flask API project, follow these steps:
+
+1. Clone the repository to your local machine:
+- `git clone https://github.com/your-username/FlaskCodeChallenge-PizzaRestaurants.git`
+2.  Navigate to the project directory:
+`cd FlaskCodeChallenge-PizzaRestaurants`
+
+## Author
+Author Name: Eric Muthui
+
+## License
+This project is licensed under the `MIT License`.
